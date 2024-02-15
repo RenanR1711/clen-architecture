@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES2022", // O tipo de saída de linguagem ECMAScript para gerar.
+    "module": "ESNext", // O módulo de sistema para gerar.
+    "strict": false, // Habilita todos os controles de verificação de tipo estrita.
+    "esModuleInterop": true, // Permite a interoperabilidade entre módulos ES6 e CommonJS.
+    "skipLibCheck": true, // Pula a verificação de tipo nas declarações de biblioteca.
+    "forceConsistentCasingInFileNames": true // Força nomes de arquivos consistentes em maiúsculas e minúsculas.
+  }
+}
